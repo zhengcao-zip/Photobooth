@@ -1,6 +1,4 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+/* @tailwind directives removed for browser compatibility. Using CDN in index.html instead. */
 
 body {
   font-family: 'VT323', monospace;
